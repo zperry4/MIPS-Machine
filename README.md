@@ -2,6 +2,8 @@
 The Purpose of this program is to simulate a MIPS assembly processor. 
 The code will load a file with MIPS instructions, decode the instructions, execute them, and then store the output into the registers. 
 
+The two bin files within the master branch are two working input files that can be ran and used with the program. 
+
 ## How to use: 
 ### > ./MIPSmachine 
 ### > load *filename*: Will load a file of MIPS instructions
